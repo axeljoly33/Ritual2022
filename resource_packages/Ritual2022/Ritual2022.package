@@ -1,0 +1,11 @@
+mod = [
+	"Ritual2022"
+]
+
+package = [
+	"resource_packages/Ritual2022/Ritual2022"
+]
+
+lua = [
+	"scripts/mods/Ritual2022/*"
+]
